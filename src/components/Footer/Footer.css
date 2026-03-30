@@ -1,0 +1,13 @@
+#foot{
+    color: aliceblue;
+    background-color: slategray;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 50px;
+    
+}
+.quick{
+    text-align: center;
+}

@@ -1,0 +1,29 @@
+#about-cont{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 20px;
+    text-align: left;
+    background-color: black;
+    
+    padding: 10px;
+    
+
+}
+.div2
+{
+
+   
+    color:aliceblue;
+   
+   
+    text-align: left;
+
+
+}
+.helo{
+    display: flex;
+    flex-direction: column;
+    
+}
+

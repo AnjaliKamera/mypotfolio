@@ -1,0 +1,22 @@
+#cert{
+    color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+
+}
+.photo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 10px;
+    padding: 10px;
+}
+.text{
+ display: flex;
+ color: aliceblue;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 10px;
+    padding: 10px;
+}
