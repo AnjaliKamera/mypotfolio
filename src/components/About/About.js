@@ -6,7 +6,7 @@ function About(){
             <h2 style={{color:"brown", fontSize:"24px",textAlign:"center"}}>About Me</h2>
             <div id="about-cont">
                 <div className="helo">
-                    <img src={annaya} className="helo" width="250px" height="250px"/>
+                    <img alt="image" src={annaya} className="helo" width="250px" height="250px"/>
                 </div>
                 <div className="div2">
                     <p>
